@@ -6,6 +6,8 @@ for more nuanced and context-aware searches, surpassing traditional
 keyword-based methods. By leveraging vector embeddings, users can search through
 things that have similar meanings but use completely different words.
 
+
+
 While modern vector databases like PostgreSQL excel at storing and querying
 these embeddings efficiently, the challenge of maintaining synchronization
 between embeddings and their source data has typically fallen to developers,
