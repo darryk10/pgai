@@ -4,6 +4,8 @@ The `ai.chunk_text` and `ai.chunk_text_recursively` functions allow you to split
 
 ## Example usage
 
+
+
 Given a table like this
 
 ```sql
